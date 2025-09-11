@@ -1,0 +1,130 @@
+[
+  {
+    "question": "What is Dans' surname",
+    "choice1": "Ngo",
+    "choice2": "Nguyen",
+    "choice3": "Le",
+    "choice4": "Tran",
+    "answer": 1
+  },
+  {
+    "question": "When is Dans' Birthday?",
+    "choice1": "April 10",
+    "choice2": "December 22",
+    "choice3": "May 28",
+    "choice4": "October 12",
+    "answer": 1
+  },
+  {
+    "question": " What school does Dan go to?",
+    "choice1": "Bonnyrigg High School",
+    "choice2": "Prairewood High School",
+    "choice3": "St John's Park High School",
+    "choice4": "Canley Vale High School",
+    "answer": 1
+  },
+  {
+    "question": "How old is Dan?",
+    "choice1": "15",
+    "choice2": "16",
+    "choice3": "14",
+    "choice4": "19",
+    "answer": 1
+  },
+  {
+    "question": "What is Dans' Dad's name?",
+    "choice1": "Hoang",
+    "choice2": "Tam",
+    "choice3": "Con",
+    "choice4": "Vinh",
+    "answer": 3
+  },
+  {
+    "question": "How many brother or sisters does Dan have?",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "3",
+    "answer": 1
+  },
+  {
+    "question": "Which game is Dan's favourite game?",
+    "choice1": "Clash Royale",
+    "choice2": "League of Legends",
+    "choice3": "Roblox",
+    "choice4": "Valorant",
+    "answer": 2
+  },
+  {
+    "question": "What champion does Dan main in League of Legends?",
+    "choice1": "Yasuo",
+    "choice2": "Yone",
+    "choice3": "Akali",
+    "choice4": "Does not main a champion",
+    "answer": 4
+  },
+  {
+    "question": "Who was Dan's first friend in high school?",
+    "choice1": "David",
+    "choice2": "Ethan C",
+    "choice3": "James",
+    "choice4": "Jayden",
+    "answer": 2
+  },
+  {
+    "question": "How tall is Dan?(according to David)",
+    "choice1": "180cm",
+    "choice2": "178cm",
+    "choice3": "177cm",
+    "choice4": "179cm",
+    "answer": 4
+  },
+  {
+    "question": "Which hand is Dan's dominant hand?",
+    "choice1": "Right",
+    "choice2": "Left",
+    "choice3": "Ambidextrous",
+    "choice4": "Does not have hands",
+    "answer": 1
+  },
+  {
+    "question": "What is Dan's favourite food?",
+    "choice1": "Pizza",
+    "choice2": "Udon",
+    "choice3": "Pho",
+    "choice4": "Chicken nuggets",
+    "answer": 2
+  },
+  {
+    "question": "What is Dan's Net worth?",
+    "choice1": "$20 million",
+    "choice2": "$500 thousand",
+    "choice3": "$0",
+    "choice4": "$5",
+    "answer": 3
+  },
+  {
+    "question": "What Nationality is Dan?",
+    "choice1": "Chinese",
+    "choice2": "Japanese",
+    "choice3": "Korean",
+    "choice4": "Vietnamese",
+    "answer": 4
+  },
+  {
+    "question": "What is Dan's shoe size?",
+    "choice1": "UK 9",
+    "choice2": "US 9",
+    "choice3": "US 11",
+    "choice4": "UK 10",
+    "answer": 1
+  },
+  {
+    "question": "What is Dan's favourite Clash Royale Card?",
+    "choice1": "Mini Pekka",
+    "choice2": "Arrows",
+    "choice3": "Tesla",
+    "choice4": "Goblin barrel",
+    "answer": 3
+  }
+]
